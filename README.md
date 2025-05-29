@@ -1,6 +1,5 @@
 # DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains
 
-![DivScore Framework](assests/divscore_structure.png)
 
 This repository contains the official implementation for the paper:  
 **DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains**
