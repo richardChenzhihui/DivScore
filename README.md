@@ -4,7 +4,7 @@
 This repository contains the official implementation for the paper:  
 **DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains**
 
-[Anonymous ACL Submission] | [PDF](assests/DivScore__Zero_Shot_Detection_of_LLM_Generated_Text_in_Specialized_Domains.pdf)
+[Anonymous ACL Submission] | [PDF](assests/DivScore_paper.pdf)
 
 ## 📝 Abstract
 Detecting LLM-generated text in specialized domains like medicine and law is crucial for combating misinformation. DivScore is a novel zero-shot detection framework that uses normalized entropy-based scoring and domain knowledge distillation to robustly identify LLM-generated text in specialized domains. Our method outperforms state-of-the-art detectors by 14.4% AUROC and 64.0% recall at 0.1% FPR threshold.
