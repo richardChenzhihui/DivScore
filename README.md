@@ -1,4 +1,4 @@
-# DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains
+# [EMNLP2025 Main] DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains
 
 
 This repository contains the official implementation for the paper:  
@@ -194,3 +194,4 @@ python experiments/main.py
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
